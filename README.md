@@ -6,7 +6,7 @@ This repository just for hacktoberfest 2019 event, have fun with hacktoberfest 2
 Just write your github profile to CONTRIBUTORS.md
 
 # How ?
-1. Create your hacktoberfest account ![here](https://hacktoberfest.digitalocean.com/)
+1. Create your hacktoberfest account [here](https://hacktoberfest.digitalocean.com/)
 2. Fork this repository
 3. Clone forked repository
 4. Create new branch
